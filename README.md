@@ -1,5 +1,4 @@
-# rdmdevportfolio
-Development Portfolio for Rachel Marron- Aspiring QA Engineer
+# Team Profile Generator
 
 ## Link to deployed application 
 <a href="https://racheldmarron.github.io/generate-your-team/">https://racheldmarron.github.io/generate-your-team/</a>
