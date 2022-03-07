@@ -1,14 +1,14 @@
 const inquirer = require('inquirer');
-const manager = require('.lib/manager'); 
-const engineer = require('.lib/engineer'); 
-const intern = require('.lib/intern');
+const manager = require('./lib/manager'); 
+const engineer = require('./lib/engineer'); 
+const intern = require('./lib/intern');
 const generateSite = require('./lib/generate-site');
-const fs = require("fs"); s
+const fs = require("fs"); 
 const path = require("path"); 
 const employee = require('./lib/employee');
 const { prompt } = require('inquirer');
 const OUTPUT_DIR = path.resolve(_dirname, "output"); 
-const outputPath = path.join(OUTPUT_DIR, "team.html");
+const outputPath = path.join(OUTPUT_DIR, "index.html");
 const teamMembers = []; 
 
 const promptManager = () => {
