@@ -1,7 +1,7 @@
 # Team Profile Generator
 
 ## Link to deployed application 
-<a href="https://racheldmarron.github.io/generate-your-team/">https://racheldmarron.github.io/generate-your-team/</a>
+<a href="https://racheldmarron.github.io/generate-your-team/">https://racheldmarron.github.io/generate-your-team/</a><br><br>
 <a href="https://youtu.be/653HPlO8p9k">https://youtu.be/653HPlO8p9k</a>
 
 ## Overview 
