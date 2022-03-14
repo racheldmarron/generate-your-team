@@ -181,7 +181,7 @@ const questions = [
                     return console.log(err);
                 }
                 
-                console.log("Your employee index.html page has been created successfully!");
+                console.log("You have successfully built your team!!");
             });
 
         }
