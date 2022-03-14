@@ -2,7 +2,7 @@
 
 ## Link to deployed application 
 <a href="https://racheldmarron.github.io/generate-your-team/">https://racheldmarron.github.io/generate-your-team/</a><br><br>
-<a href="https://youtu.be/653HPlO8p9k">https://youtu.be/653HPlO8p9k</a>
+<a href="https://youtu.be/py8v_qUVuSE">https://youtu.be/py8v_qUVuSE</a>
 
 ## Overview 
 You are able to build your team of Manager, Engineers, and Interns on the Node.js command line. You will then be taken to an web page that is populated by the information you put in about your team, including ID, email, office number, github, and uinversity attended. 
@@ -34,10 +34,10 @@ The Acceptance Criteria included:
 </ul>
 <br><br> 
 
-![](./assets/team-profile-1.png)
+![](./assets/images/team-profile-1.png)
 
 ## Video 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/653HPlO8p9k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/py8v_qUVuSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Contributors
 
